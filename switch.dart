@@ -23,7 +23,7 @@ void main() {
       break;
     default:
       {
-        print("Invalid grade");
+        print("Invalid Grade");
       }
   }
 }
